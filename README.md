@@ -1,4 +1,7 @@
-Bamboo-Wallets-Alpha
-====================
+Product: Bamboo Wallet - Alpha, December 2014
 
-Bamboo Wallets Alpha
+Designer: Shane Wise and Andrew Wilkinson
+
+Support:  http://forums.obrary.com/category/designs/bamboo-wallets
+
+Distributed by:  Obrary, Inc.  http://obrary.com.  Obrary - democratized product design
